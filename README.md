@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/323db594-f35c-42a4-83b5-e62e329b2dea)
  
 Аэропорт:
 - получить список всех аэропортов +
